@@ -8,7 +8,7 @@ Linux:
 - Install usbmuxd (ex. sudo apt-get install usbmuxd)
 
 Windows:
-- Install iTunes (https://support.apple.com/en-us/HT210384)
+- Install iTunes (https://support.apple.com/en-us/106372)
 Or
 - Apple Devices (https://apps.microsoft.com/detail/9np83lwlpz9k?ocid=webpdpshare)
   

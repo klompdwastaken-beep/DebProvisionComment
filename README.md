@@ -20,3 +20,4 @@ Scarlet is installed with this tool which allows you to add jailbroken repos and
 It also includes a beautiful design and lightning fast app sideloading
 
 ![FQjxnTUXwAgogII](https://user-images.githubusercontent.com/63203414/167322439-13501308-1271-4bd7-9c9f-5c164ab357f9.jpeg)
+Comment: Very good perfect on linux, better then sideloadly
